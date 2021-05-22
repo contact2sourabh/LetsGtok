@@ -1,0 +1,27 @@
+.last {
+    height: 600px;
+    background-color: blueviolet;
+    width: 100%;
+}
+
+.last>.jumbotron.jumbotron-fluid>.container-fluid>.card {
+    width: 29rem;
+    height: 16rem;
+    position: absolute;
+    top: 222%;
+    left: 8%;
+}
+
+.last>.jumbotron.jumbotron-fluid>.container-fluid>.card>.card-body>.btn.btn-primary {
+    position: absolute;
+    top: 64%;
+    left: 4%;
+    background-color: blueviolet;
+}
+
+.last>.jumbotron.jumbotron-fluid>.container-fluid>.icon {
+    height: 15rem;
+    position: absolute;
+    left: 64%;
+    top: 221%;
+}

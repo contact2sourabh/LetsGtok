@@ -1,0 +1,106 @@
+.jumb {
+    height: 750px;
+    background-color: #e4f2e8;
+    flex: .5;
+    margin-right: .2em;
+}
+
+.display-5 {
+    font-weight: 500;
+}
+
+.jumb2 {
+    height: 750px;
+    background-color: #e4f2e8;
+    flex: .5;
+    margin-left: .2em;
+}
+
+.inputIcon {
+    z-index: 99;
+    color: #761dc7;
+    font-size: x-large;
+    position: absolute;
+    right: -.6em;
+    top: -.5em;
+}
+
+.jumb>.jumbotron>.row>.col-sm-6>.card {
+    position: absolute;
+    width: 22rem;
+    top: 110%;
+    left: 10%;
+    height: 11.5rem;
+    padding: 1rem
+}
+
+.card-text {
+    font-size: large;
+    font-family: inherit;
+}
+
+.jumb>.jumbotron>.row>.car2>.col-sm-6>.card {
+    position: absolute;
+    width: 22rem;
+    top: 140%;
+    left: 10%;
+    height: 11.5rem;
+    padding: 1rem;
+}
+
+h4 {
+    font-size: larger;
+    position: absolute;
+    top: 173%;
+    font-family: math;
+    left: 10%;
+}
+
+.jumb>.jumbotron>.btn {
+    width: 15%;
+    background-color: #761dc7;
+    position: absolute;
+    top: 185%;
+    left: 10%
+}
+
+.jumb2>.jumbotron>.row>.col-sm-6>.card {
+    width: 22rem;
+    height: 11rem;
+    position: absolute;
+    top: 110%;
+    left: 60%;
+    padding: 1rem;
+}
+
+.jumb2>.jumbotron>.row>.col2mid>.col-sm-6>.card {
+    position: absolute;
+    width: 22rem;
+    top: 140%;
+    left: 60%;
+    height: 11rem;
+    padding: 1rem;
+}
+
+.jumb2>.jumbotron>.btn {
+    position: absolute;
+    top: 184%;
+    width: 15%;
+    background-color: #761dc7;
+    left: 66%;
+}
+
+.jumb2>.jumbotron>h5 {
+    position: absolute;
+    top: 173%;
+    font-family: math;
+    left: 61%;
+    font-size: 19px;
+}
+
+
+/* card-text:last-child {
+    font-size: smaller;
+    color: black;
+    font-family: inherit;
+} */

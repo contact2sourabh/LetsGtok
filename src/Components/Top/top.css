@@ -1,0 +1,47 @@
+.top {
+    background-color: blueviolet;
+    height: 550px;
+}
+
+.card {
+    position: relative;
+    background-color: whitesmoke;
+    width: 30%;
+    height: 11.25rem;
+    left: 29.25rem;
+    top: 12.5rem;
+}
+
+.input-group {
+    width: 80% !important;
+    align-items: center;
+    position: absolute;
+    left: 2.7em;
+    top: 1.5em;
+}
+
+.btn {
+    border-radius: .60rem !important;
+}
+
+.input-group-text {
+    font-weight: 700;
+    color: blueviolet;
+}
+
+.form-control {
+    border-left: none;
+    background-color: #e9ecef;
+}
+
+
+/* input:focus {
+    border: 3px solid #f36f25;
+} */
+
+button {
+    position: relative;
+    width: 40%;
+    top: 50%;
+    left: 30%;
+}

@@ -1,0 +1,29 @@
+.icon {
+    height: 40px;
+}
+
+.title {
+    color: purple;
+}
+
+.about {
+    position: relative;
+    /* right: 1000px; */
+    left: 400px;
+    color: black;
+}
+
+.blogs {
+    position: relative;
+    left: 400px;
+}
+
+.career {
+    position: relative;
+    left: 400px;
+}
+
+.contact {
+    position: relative;
+    left: 400px;
+}
